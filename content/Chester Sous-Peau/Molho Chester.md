@@ -11,6 +11,7 @@ O objetivo aqui é extrair o máximo de colágeno e sabor dos miúdos.
 4. **Filtragem:** Após sair a pressão, coe o líquido em uma peneira fina. Pressione os miúdos contra a peneira para extrair todo o suco. Descarte os sólidos e reserve apenas o líquido (Caldo Base).
 
 
+
 ### Etapa 02: Captura de Sabor
 
 Esta etapa ocorre enquanto o Chester descansa em cima da travessa.

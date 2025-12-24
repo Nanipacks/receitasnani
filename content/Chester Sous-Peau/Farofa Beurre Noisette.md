@@ -1,3 +1,4 @@
+Voltar para [[Chester sous-peau]]
 #### Ingredientes 
 
 - **Pão:** 300g de pão de fermentação natural, baguete ou pão italiano (deve estar amanhecido e duro).
@@ -23,7 +24,7 @@ O objetivo desta etapa é criar uma textura de panko amanteigada que permaneça 
     
 - **Armazenamento Crítico:** Deixe a base esfriar totalmente ainda na frigideira. Transfira para um pote hermético e mantenha obrigatoriamente fora da geladeira para evitar que o pão murche.
     
-
+Voltar para [[Chester sous-peau]]
 #### 02: Finalização e Serviço
 
 Esta fase foca na integração de aromas frescos e finalização do prato.
@@ -35,3 +36,4 @@ Esta fase foca na integração de aromas frescos e finalização do prato.
 - **Montagem e Temperos:** Desligue o fogo e adicione as passas (devidamente escorridas da cachaça) e a salsinha picada.
     
 - **Ajuste Final:** Prove a farofa e adicione o sal e a pimenta-do-reino moída na hora apenas neste momento, garantindo que o tempero esteja equilibrado para o serviço.
+Voltar para [[Chester sous-peau]]
