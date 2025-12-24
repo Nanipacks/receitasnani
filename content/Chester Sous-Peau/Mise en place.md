@@ -38,9 +38,10 @@ Voltar para [[Chester sous-peau]]
 | **POTE 09**         | **Ervas Farofa**        | 1/2 maço de salsinha (apenas folhas) picada finamente. Coloque papel toalha no fundo.                                      | Geladeira                                                |
 | **POTE 10**         | **Emulsão Molho**       | 2 cubos de manteiga sem sal (aprox. 30g). Devem estar muito gelados para a técnica.                                        | Geladeira (Fundo)                                        |
 
-
 #### PASSO 4: MANHA DO CHESTER
 
 Prepare as seguintes etapas:
 - Etapa 01 [[Farofa Beurre Noisette]]
 - Caldo base [[Molho Chester]]
+
+Voltar para [[Chester sous-peau]]
