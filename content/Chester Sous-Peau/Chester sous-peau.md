@@ -3,29 +3,11 @@
 
 ### Vespera - [[Mise en place]]
 
-### Dia do servico
+### Dia D - [[Mise en place#PASSO 4 MANHA DO CHESTER | Manha]]
 
-#### Manha
+### 15:00 - Retirada chester e pote 01 (manteiga composta)
 
-Prepare as seguintes etapas:
-- Etapa 01 [[Farofa Beurre Noisette]]
-- Caldo base [[Molho Chester]]
-
-#### Execucao
-
-| **Etapa**                | **Horário** | **Detalhes Técnicos e Execução**                                                                                                                                                                                                                                                                                                                             |
-| ------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Temperagem**           | **15:00**   | Retire o Chester e o **Pote 01** (Manteiga Composta) da geladeira para perderem o gelo e a manteiga ficar em ponto de pomada.                                                                                                                                                                                                                                |
-| **Pré-aquecimento**      | **16:30**   | Ligue o forno no **MÁXIMO**. O forno precisa de 90 min para estabilizar a massa de calor necessária para o choque térmico inicial.                                                                                                                                                                                                                           |
-| **Manteiga _Sous-Peau_** | **17:15**   | Descole a pele da carne pelo pescoço com cuidado. Introduza os 250g de manteiga do **Pote 01** e massageie por fora até atingir as coxas.                                                                                                                                                                                                                    |
-| **Montagem Final**       | **17:45**   | **Cavidade:** Pote 03 (maçã, cebola, anis) dentro da ave + amarrar pernas.<br><br>**Assadeira:** Cama de vegetais (Pote 02) no fundo, ave por cima e líquidos (Jarra 07) nas laterais.                                                                                                                                                                       |
-| **Início (T + 0)**       | **18:00**   | Entrada da ave no forno em **Temperatura Máxima** para selagem e início da cor.                                                                                                                                                                                                                                                                              |
-| **Ajuste (T + 20)**      | **18:20**   | Reduza a temperatura do forno para **160°C** para um cozimento lento e uniforme.                                                                                                                                                                                                                                                                             |
-| **Caldo (T + 60)**       | **19:00**   | 1. **Ação:** No modo REFOGAR, doure o pescoço e miúdos (**Pote 06**).<br><br>2. **Líquidos:** Adicione 350ml de vinho e 400ml de água.<br><br>3. **Pressão:** Feche a tampa. Selecione PRESSÃO ALTA. (Se a panela permitir, 140 graus por 30 minutos).<br><br>4. **Finalização:** Após a pressão sair, coe e descarte os miúdos. Guarde o líquido na panela. |
-| **Rega 1 (T + 120)**     | **20:00**   | 1. Regue a ave com o caldo da assadeira.<br><br>2. **Termômetro:** Espete o peito (puxe 1cm após tocar o osso). Alvo: **55°C**.                                                                                                                                                                                                                              |
-| **Rega 2 (T + 150)**     | **20:30**   | Segunda rega generosa com o líquido da assadeira e nova medição de temperatura.                                                                                                                                                                                                                                                                              |
-| **Rega 3 (T + 165)**     | **20:45**   | Terceira rega. A pele já deve estar bem dourada. Nova medição de temperatura.                                                                                                                                                                                                                                                                                |
-| **Retirada (T + 180)**   | **21:00**   | 1. Monitore até atingir **72°C** no peito.<br><br>2. Retire do forno.<br><br>3. Cubra com alumínio **frouxo** (estilo barraca).<br><br>4. **Descanso inegociável de 30 min** (cronometre!).                                                                                                                                                                  |
+### 16:30 - [[Execucao - Forno]]
 
 ### 21:20 – Finalizacao [[Molho Chester]]
 
